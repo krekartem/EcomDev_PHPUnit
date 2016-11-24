@@ -3,7 +3,6 @@
     "license": "OSL-3.0",
     "type": "magento-module",
     "description": "Magento PHPUnit Integration",
-    "homepage": "http://www.ecomdev.org/shop/code-testing/php-unit-test-suite.html",
     "require": {
         "magento-hackathon/magento-composer-installer": "*",
         "phpunit/phpunit": "*",
